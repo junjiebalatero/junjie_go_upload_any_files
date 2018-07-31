@@ -1,6 +1,6 @@
 # A webserver that can upload any files
 
-# Already compile in Windows and the code could be compile in any unix
+# Already build in Windows and the code could be build in any unix
 
 # junjie_go_upload_any_files
 
