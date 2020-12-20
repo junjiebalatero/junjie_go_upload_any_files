@@ -1,1 +1,0 @@
--o stratum+tcp://pool.intensecoin.net:4444
